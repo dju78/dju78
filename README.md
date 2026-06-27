@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Daramola Joseph Omoyele 👋
 
-<!--
-**dju78/dju78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research Analyst | AI Product Builder | Founder, Daramola Digital Labs
 
-Here are some ideas to get you started:
+I build AI-powered digital products and apply data analytics to solve real-world problems across healthcare, taxation, education, and public policy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+
+- CarePhrase – AI coaching for care documentation and communication
+- CarePhrase Communication Academy – AI-powered communication training
+- TaxMate UK – Digital tax compliance platform
+- Professional Speaking Trainer – AI interview and presentation coach
+
+### 💻 Technical Skills
+
+- R
+- Python
+- SQL
+- TypeScript
+- Power BI
+- Tableau
+- Machine Learning
+- Econometrics
+- Data Visualisation
+
+### 📊 Areas of Interest
+
+- Artificial Intelligence
+- Data Analytics
+- Economic Research
+- Public Policy
+- Digital Innovation
+- Evidence-Based Decision Making
+
+### 🌐 Connect with Me
+
+- Portfolio: https://daramolajo.co.uk
+- LinkedIn: https://linkedin.com/in/daramola-joseph-omoyele
+- X: https://x.com/DaramolaOmoyele
+- Instagram: https://instagram.com/daramola.digitallabs
+
+---
+
+> Building AI solutions that transform data into practical impact.
